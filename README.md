@@ -1,5 +1,4 @@
-- ✨ Unity3d programmer
-- ✔ С# developer
+- ✨ Unity3d, С#
                                                                 
 ⢠⠊⣉⠒⠤⢀⡀          ⡐⢁⠴⢜⢄                                                              
  ⡎⢸  ⠉⠐⠢⢌⠑⢄    ⡸  ⡆    ⠣⠱⡀                                                                                                                            
